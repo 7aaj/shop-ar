@@ -20,8 +20,8 @@ export default function Header() {
   }, []);
 
   return (
-    <header className="bg-[#4A9200] text-[#FCEB4F] p-4 shadow-md rtl border-b-2">
-      <div className="container mx-auto flex justify-evenly md:justify-between items-center flex-row-reverse">
+    <header className="bg-[#4A9200] text-[#FCEB4F] p-4 shadow-md border-b-2">
+      <div className="container mx-auto flex justify-evenly md:justify-between items-center flex-row">
         <h1 className="text-xl font-semibold">
           <img className="w-[150px]" src="/logo.png" alt="" />
         </h1>

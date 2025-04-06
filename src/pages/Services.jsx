@@ -33,11 +33,11 @@ const Services = () => {
   return (
     <div>
       <Header />
-      <div className="container mx-auto p-6 bg-[#4A9200]">
+      <div className="w-full p-6 bg-[#4A9200] flex flex-col items-center">
         <h1 className="text-3xl font-bold text-center text-[#FCEB4F] mb-16">
           متاجرنا المميزة
         </h1>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           {shops.map((shop, index) => (
             <Card
               key={index}

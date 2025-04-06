@@ -21,7 +21,7 @@ const HeroSection = () => {
 
         {/* Right side image or illustration */}
         <div className="mt-8 md:mt-0 md:w-1/2">
-          <img className="w-[600px]" src="/bannerHome.webp" alt="" />
+          <img className="w-[600px]" src="/banner.png" alt="" />
         </div>
       </div>
       <div className="flex justify-center gap-x-28 px-10 w-full">

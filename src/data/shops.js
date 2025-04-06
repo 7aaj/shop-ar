@@ -67,6 +67,40 @@ export const sweetShops = [
       extraImages: "/images/enasItems.jpg",
     },
   },
+  {
+    image: "/logos/zikra.jpg",
+    title: "Zikra | ذکری",
+    description:
+      "متجر متخصص في الشوكولاتة، التمور، الهدايا التذكارية، وخدمات المناسبات مثل الزفاف والتخرج.",
+    link: "https://www.instagram.com/zikrachoco?igsh=Y2l5NGtpemJ1NDM2",
+    details: {
+      fullDescription:
+        'متجر "Zikra | ذکری" متخصص في تقديم خدمات ومنتجات متنوعة، تشمل الشكولاتة، التمور، الهدايا التذكارية، وخدمات المناسبات مثل: حفلات الزفاف، المناسبات الخاصة، حفلات استقبال المولود، حفلات التخرج.',
+      offerings: [
+        "شوكولاتة فاخرة",
+        "تمور وهدايا تذكارية",
+        "خدمات للمناسبات (زفاف، تخرج، مواليد)",
+      ],
+      extraImages: "/images/zikraItems.jpg",
+    },
+  },
+  {
+    image: "/logos/lubnas_cake.jpg",
+    title: "lubnas cake",
+    description:
+      "متجر متخصص في أنواع الكيك مثل تشيز كيك وكيك جوز الهند وكب كيك، مع علب هدايا خاصة للمناسبات.",
+    link: "https://www.instagram.com/lubnas_cake?igsh=MWhjOW56b2J0NmJhYw==",
+    details: {
+      fullDescription:
+        "مشروع (lubnas cake) يقدم أنواعًا مختلفة من الكيك، مثل تشيز كيك، وكيك جوز الهند، بالإضافة إلى كب كيك. كما يوفر علب هدايا خاصة للمناسبات مثل عيد الفطر. استمتعوا بألذ الحلويات مع Lubna's cake، متعة الطعم في كل قطعة.",
+      offerings: [
+        "تشيز كيك وكيك جوز الهند",
+        "كب كيك بنكهات مميزة",
+        "علب هدايا للمناسبات",
+      ],
+      extraImages: "/images/lubnasCakeItems.jpg",
+    },
+  },
 ];
 
 export const accessoriesShops = [
@@ -136,6 +170,43 @@ export const accessoriesShops = [
         "تصاميم تجمع بين العصرية والكلاسيكية",
       ],
       extraImages: "/images/emiliaSilverItems.jpg",
+    },
+  },
+  {
+    image: "/logos/soul_hebron.jpg",
+    title: "Soul Hebron",
+    description:
+      "مجموعة مميزة من الإكسسوارات الفضية تشمل الحلقان والخواتم والأطقم والأساور – تألقي ببريق الفضة!",
+    link: "https://www.instagram.com/soul.hebron.12?igsh=YzZmYTdwdTQ2anZu",
+    details: {
+      fullDescription:
+        "مشروع (Soul Hebron) يقدم المتجر مجموعة متنوعة من الإكسسوارات الفضية، بما في ذلك الحلقان والخواتم والأطقم والأساور. تألقي ببريق الفضة، مع تشكيلتنا المميزة من الإكسسوارات.",
+      offerings: [
+        "حلقان فضة",
+        "خواتم فضة",
+        "أطقم وأساور فضية",
+        "تصاميم تناسب جميع المناسبات",
+      ],
+      extraImages: "/images/soulHebronItems.jpg",
+    },
+  },
+  {
+    image: "/logos/lumiere_silver.jpg",
+    title: "Lumiere Silver",
+    description:
+      "متجر متخصص في المجوهرات والساعات الفضية مع خدمات حفر ليز وتصاميم حسب الطلب – الأناقة تبدأ من هنا.",
+    link: "https://www.instagram.com/lumiere_ps?igsh=MTVpeHJ5MzJjeHQ1NQ==",
+    details: {
+      fullDescription:
+        "مشروع (Lumiere Silver) المتجر متخصص في بيع المجوهرات والساعات الفضية، ويقدم مجموعة متنوعة مثل: بروشات فضة، مسابح فضة، ساعات نسائية فضية، مجوهرات فضية مصممة حسب الطلب، وخدمات حفر ليز. المتجر هو عنوان الأناقة، حيث تلتقي الجودة بالتصميم الفريد.",
+      offerings: [
+        "بروشات فضة",
+        "مسابح فضة",
+        "ساعات نسائية فضية",
+        "مجوهرات مصممة حسب الطلب",
+        "خدمات حفر ليز",
+      ],
+      extraImages: "/images/lumiereSilverItems.jpg",
     },
   },
 ];
@@ -209,6 +280,43 @@ export const clothesShops = [
       extraImages: "/images/georgiaFashionItems.jpg",
     },
   },
+  {
+    image: "/logos/wafa_style_ramallah.jpg",
+    title: "Wafa Style Ramallah",
+    description:
+      "المتجر مجموعة متنوعة من الملابس النسائية، والتي قد تكون مخصصة للمناسبات المختلفة،يعمل على تقديم منتجات متنوعة تشمل موديلات تركية وأزياء صلاة.",
+    link: "https://www.instagram.com/wafa_style_ramallah?igsh=OTVibHBtdTBsODly",
+    details: {
+      fullDescription:
+        "مشروع (Wafa Style Ramallah) يقدم مجموعة متنوعة من الملابس النسائية، تشمل: بيع الملابس النسائية، بيع أزياء الصلاة، بيع موديلات تركية، بيع أطقم شياكة. تسوقي الآن واستمتعي بتجربة تسوق مريحة وممتعة.",
+      offerings: [
+        "بيع الملابس النسائية",
+        "بيع أزياء الصلاة",
+        "بيع موديلات تركية",
+        "بيع أطقم شياكة",
+      ],
+      extraImages: "/images/wafaStyleItems.jpg",
+    },
+  },
+  {
+    image: "/logos/trendy_online.jpg",
+    title: "Trendy Online",
+    description:
+      "متجر إلكتروني متخصص في بيع الملابس النسائية، يقدم أطقم زارا وعبايات وملابس صيفية وغيرها من أحدث صيحات الموضة.",
+    link: "https://www.instagram.com/trendonline73?igsh=MXV0bHVtdmFpa3IzdQ==",
+    details: {
+      fullDescription:
+        "مشروع (Trendy Online) متجر إلكتروني متخصص في بيع الملابس النسائية، يقدم مجموعة متنوعة من الملابس بما في ذلك: أطعم زارا، جلابية أنيقة، ملابس صيفية، أفرهولات، أطعم العيد. أناقتكِ تبدأ من هنا، مع أحدث صيحات الموضة النسائية.",
+      offerings: [
+        "أطعم زارا",
+        "جلابية أنيقة",
+        "ملابس صيفية",
+        "أفرهولات",
+        "أطعم العيد",
+      ],
+      extraImages: "/images/trendyOnlineItems.jpg",
+    },
+  },
 ];
 
 export const cosmeticsShops = [
@@ -278,6 +386,40 @@ export const cosmeticsShops = [
         "ألوان نابضة بالحياة تناسب جميع الأذواق",
       ],
       extraImages: "/images/flormarNablusItems.jpg",
+    },
+  },
+  {
+    image: "/logos/sarahs_secrets.jpg",
+    title: "Sarah's Secrets",
+    description:
+      "متجر إلكتروني يقدم منتجات تجميل وعناية شخصية مخصصة للفتيات، بما في ذلك مكياج ومنتجات بشرة.",
+    link: "https://www.instagram.com/sarahsecrets_1?igsh=dGFqb3F4YThoNHA=",
+    details: {
+      fullDescription:
+        "مشروع (Sarah's Secrets) هو متجر إلكتروني متخصص في منتجات التجميل والعناية الشخصية، يستهدف بشكل خاص الفتيات. يقدم المتجر مجموعة متنوعة من المنتجات، بما في ذلك: منتجات المكياج، منتجات العناية بالبشرة، منتجات العناية الشخصية.",
+      offerings: [
+        "منتجات المكياج",
+        "منتجات العناية بالبشرة",
+        "منتجات العناية الشخصية",
+      ],
+      extraImages: "/images/sarahsSecretsItems.jpg",
+    },
+  },
+  {
+    image: "/logos/logayn_shop.jpg",
+    title: "logayn shop",
+    description:
+      "متجر يقدم كريمات وسيرومات للعناية بالبشرة، مع تركيز على المنتجات الطبية المعتمدة والفعالة.",
+    link: "https://www.instagram.com/logayn_shop?igsh=Y21jOTUwZWphdjY=",
+    details: {
+      fullDescription:
+        "مشروع (logayn shop) يقدم مجموعة متنوعة من منتجات العناية بالبشرة، بما في ذلك كريمات وسيرومات. ويبدو من الصور أن المتجر يركز على المنتجات الطبية المعتمدة، مما يشير إلى جودتها وفعاليتها.",
+      offerings: [
+        "كريمات للعناية بالبشرة",
+        "سيرومات طبية فعالة",
+        "منتجات بجودة طبية معتمدة",
+      ],
+      extraImages: "/images/logaynShopItems.jpg",
     },
   },
 ];
