@@ -16,7 +16,7 @@ const Aboutus = () => {
     </>
   );
 };
-//test
+
 const HeroTextSection = () => {
   return (
     <header className="flex relative gap-10 mb-20 max-md:flex-col max-md:gap-8 z-10 ">
