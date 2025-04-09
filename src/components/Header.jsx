@@ -18,6 +18,7 @@ export default function Header() {
       document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
+  console.log("");
 
   return (
     <header className="bg-[#4A9200] text-[#FCEB4F] p-4 shadow-md border-b-2">
