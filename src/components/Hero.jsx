@@ -24,25 +24,25 @@ const HeroSection = () => {
           <img className="w-[600px]" src="/banner.png" alt="" />
         </div>
       </div>
-      <div className="flex justify-center gap-x-28 px-10 w-full">
+      <div className="flex flex-col md:flex-row justify-center gap-y-10 md:gap-x-28 px-10 w-full">
         <div className="rounded-lg bg-white shadow p-6 text-black text-center space-y-3 pb-20">
           <FiShoppingCart className="text-4xl mx-auto text-blue-500" />
           <h1 className="font-semibold text-xl">عدد غير محدود من المنتجات</h1>
-          <p className="max-w-64">
+          <p className="max-w-xs sm:max-w-sm md:max-w-64">
             يمكنك إضافة عدد غير محدود من المنتجات إلى متجرك مجاناً
           </p>
         </div>
         <div className="rounded-lg bg-white shadow p-6 text-black text-center space-y-3 pb-20">
           <FiBox className="text-4xl mx-auto text-green-500" />
           <h1 className="font-semibold text-xl">سهولة إدارة المخزون</h1>
-          <p className="max-w-64">
+          <p className="max-w-xs sm:max-w-sm md:max-w-64">
             يمكنك تنظيم وإدارة مخزونك بكل سهولة دون أي تعقيدات.
           </p>
         </div>
         <div className="rounded-lg bg-white shadow p-6 text-black text-center space-y-3 pb-20">
           <FiTag className="text-4xl mx-auto text-red-500" />
           <h1 className="font-semibold text-xl">عروض وخصومات مذهلة</h1>
-          <p className="max-w-64">
+          <p className="max-w-xs sm:max-w-sm md:max-w-64">
             قم بإنشاء عروض وخصومات لجذب المزيد من العملاء بسهولة.
           </p>
         </div>

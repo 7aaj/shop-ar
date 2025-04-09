@@ -8,6 +8,6 @@ import Header from "./components/Header.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <RouterProvider router={router} /> {/* Use RouterProvider directly */}
+    <RouterProvider router={router} />
   </StrictMode>
 );
