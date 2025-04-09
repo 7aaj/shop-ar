@@ -8,5 +8,4 @@ export default defineConfig({
   esbuild: {
     jsx: "react",
   },
-  base: "/",
 });
