@@ -53,7 +53,7 @@ export default function Header() {
                 خدماتنا ▾
               </button>
               {isDropdownOpen && (
-                <ul className="absolute right-0 mt-2 w-48 bg-white text-black shadow-lg rounded-md z-20">
+                <ul className="absolute left-0 mt-2 w-48 bg-white text-black shadow-lg rounded-md z-20">
                   <li>
                     <Link
                       to="/services/sweets"
