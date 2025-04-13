@@ -1,7 +1,7 @@
 export const sweetShops = [
   {
     image: "/logos/zainaSweets.jpg",
-    title: "zainsweets",
+    title: "zain sweets",
     description:
       "يقدم أشهى أنواع الحلويات المصنوعة بحب وإتقان، يضيف للمناسبات لمسة مميزة من الطعم والجمال، ويحرص على استخدام أجود المكونات لضمان تجربة لذيذة.",
     link: "https://www.instagram.com/zainsweets_?igsh=MTM3MDduZmxjdXR6MQ==",
@@ -18,7 +18,7 @@ export const sweetShops = [
   },
   {
     image: "/logos/ngh.jpg",
-    title: "ngh_sweet",
+    title: "ngh sweet",
     description:
       "يقدم تشكيلة متنوعة من الشوكولاته المحشوة، والحلويات المغلفة، والتقديمات الفاخرة للمناسبات الخاصة، المصنوعة بحرفية وجودة عالية، لتكون الخيار الأول للمناسبات الخاصة.",
     link: "https://www.instagram.com/ngh_sweet?igsh=eHV5anN3dmZ3OTl6",
@@ -52,7 +52,7 @@ export const sweetShops = [
   },
   {
     image: "/logos/enas.jpg",
-    title: "enas_pastry_chef",
+    title: "enas pastry chef",
     description:
       "يقدم مجموعة متنوعة من الحلويات الشرقية والغربية بلمسات إبداعية، مثل الحلويات المحشوة والمغطاة بالشوكولاتة، بالإضافة إلى الحلوى الكريمية والمخبوزات الغنية بالنكهات.",
     link: "https://www.instagram.com/enas_pastry_chef?igsh=MnU0ejg0enExdnZp",
@@ -69,7 +69,7 @@ export const sweetShops = [
   },
   {
     image: "/logos/zikra.jpg",
-    title: "Zikra | ذکری",
+    title: "Zikra  ذکری",
     description:
       "متجر متخصص في الشوكولاتة، التمور، الهدايا التذكارية، وخدمات المناسبات مثل الزفاف والتخرج.",
     link: "https://www.instagram.com/zikrachoco?igsh=Y2l5NGtpemJ1NDM2",
@@ -106,7 +106,7 @@ export const sweetShops = [
 export const accessoriesShops = [
   {
     image: "/logos/trend_accessories7.jpg",
-    title: "trend_accessories7",
+    title: "trend accessories7",
     description:
       "تقدم الاكسسوارات الفاخرة والساعات ذات التصاميم العصرية والماركات العالمية، مع توفير خيارات أنيقة تلبي احتياجات العملاء الباحثين عن الأناقة والفخامة.",
     link: "https://www.instagram.com/trend_accessories7?igsh=ZDRnY3gxZWljNGZm",
@@ -140,7 +140,7 @@ export const accessoriesShops = [
   },
   {
     image: "/logos/velouria_accessories.jpg",
-    title: "velouria_accessories",
+    title: "velouria accessories",
     description:
       "يقدم اكسسوارات راقية مستوحاة من العلامات العالمية، مع تصاميم تعكس الأناقة والترف لمحبي الفخامة والتميز.",
     link: "https://www.instagram.com/velouria_accessories?igsh=NXJpYnc1MmplMTdq",
@@ -214,7 +214,7 @@ export const accessoriesShops = [
 export const clothesShops = [
   {
     image: "/logos/shaghafboutique.jpg",
-    title: "shaghafboutique.2023",
+    title: "shaghaf boutique",
     description:
       "متجر ملابس نسائي يعرض تصاميم مختلفة بأفضل الأسعار والجودة العالية، لتلبية احتياجات المرأة العصرية.",
     link: "https://www.instagram.com/shaghafboutique.2023?igsh=MW5iYXVxenZjNTNpaA==",
@@ -231,7 +231,7 @@ export const clothesShops = [
   },
   {
     image: "/logos/abayati.jpg",
-    title: "Abayati|عَبايَتي",
+    title: "Abayati عَبايَتي",
     description:
       "متجر متخصص في العبايات النسائية بتصاميم فريدة ومخصصة حسب الطلب، علامة تجارية فلسطينية تدعم المنتجات المحلية.",
     link: "https://www.instagram.com/abayati.design1?igsh=MW80bHNybXpjMTVheQ==",
@@ -265,7 +265,7 @@ export const clothesShops = [
   },
   {
     image: "/logos/georgia_fashionw.jpg",
-    title: "Georgia.fashionw",
+    title: "Georgia fashionw",
     description:
       "متجر إلكتروني متخصص في الملابس النسائية، يوفر أحدث الموديلات التركية بلمسة عربية أنيقة.",
     link: "https://www.instagram.com/georgia.fashionw?igsh=MTRrZThnN2Z0MXZ5Mw==",
@@ -322,7 +322,7 @@ export const clothesShops = [
 export const cosmeticsShops = [
   {
     image: "/logos/orderbyrayan.jpg",
-    title: "Orderbyrayan",
+    title: "Order by rayan",
     description:
       "علامة تجارية متخصصة في مستحضرات التجميل، تقدم منتجات أصلية مختارة بعناية من Sephora.",
     link: "https://www.instagram.com/obr_official?igsh=MXEwN2hiNmVhc2xqZA==",
@@ -373,7 +373,7 @@ export const cosmeticsShops = [
   },
   {
     image: "/logos/flormar_nablus.jpg",
-    title: "flormar_nablus",
+    title: "flormar nablus",
     description:
       "متجر متخصص في مستحضرات تجميل فلورمار، يقدم مجموعة متنوعة من المنتجات للعناية بالبشرة والمكياج.",
     link: "https://www.instagram.com/flormar_nablus?igsh=MW0wYmJwNDVuZTR2Ng==",

@@ -92,7 +92,7 @@ export default function Header() {
           </ul>
         </nav>
         <button
-          className="md:hidden text-white focus:outline-none"
+          className="text-[40px] md:hidden text-white focus:outline-none"
           onClick={() => setIsOpen(!isOpen)}
         >
           {isOpen ? "✖" : "☰"}
